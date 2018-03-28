@@ -4,7 +4,7 @@ This sample script estimates VI-trajectory based
 load signatures for six key waveforms selected from REDD (http://redd.csail.mit.edu/) house_3 
 high frequency data. 
 
-To use, please cite the following.
+To use in academic work, please cite the following.
 
 An empirical investigation of VI-trajectory based load signatures for non-intrusive load monitoring. Taha Hassan, Fahad Javed and Naveed Arshad, IEEE Transactions on Smart Grid, 2014.
 
